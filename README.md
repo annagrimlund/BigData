@@ -1,6 +1,13 @@
+
+
 # BigData
 Competition link:
   - https://www.kaggle.com/competitions/tmdb-box-office-prediction/overview
+
+Presentation
+- how we preprocessed the data and why we removed stuff
+- which models we tried and which one was best fit
+- result/performance
 
 Code clean up:
   - collection convert to boolean values (part of collection yes/no)
