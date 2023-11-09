@@ -1,5 +1,6 @@
 # BigData
-
+Data link:
+  - https://www.kaggle.com/competitions/tmdb-box-office-prediction/overview
 Code clean up:
   - collection convert to boolean values (part of collection yes/no)
   - language (3 categories)
