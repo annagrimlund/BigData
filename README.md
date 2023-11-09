@@ -19,4 +19,4 @@ Columns to remove:
 Plan:
 - stochastic gradient descent
 - multi layer linear regression
-- 
+- stochastic
