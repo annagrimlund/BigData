@@ -13,19 +13,30 @@ Code clean up:
   - collection convert to boolean values (part of collection yes/no)
   - language (3 categories)
 
-Columns to remove:
-  - homepage
-  - imdb_idea
-  - original_title
-  - overview
-  - poster path
+transform into bolean value
+  - homepage --
+  - belongs to collection
+  - original language (english or not)
+
+transoformed
+- realese data --> release year, season, weekday
+- runtime --> missing values were filled manually
+- overview --> counting nbr of words
+- tagline --> counting nbr of words
+- genres --> multiclass hot encoding to 
+
+Counting how many of each
   - production country
-  - status
+  - spoken language
+  - key word
   - tagline
-  - title
+  - cast
   - crew
 
-Plan:
-- stochastic gradient descent
-- multi layer linear regression
-- stochastic
+
+Columns to remove:
+  - imdb_id
+  - original_title
+  - poster path
+  - status
+  - title
